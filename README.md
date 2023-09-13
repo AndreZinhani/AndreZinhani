@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Back End<br>Estou a procura de estágio<br>
+Sou estudante de Análise e Desenvolvimento de Sistemas <br>Estou a procura de estágio<br>
 
 
 ## 🌐 Socials:
